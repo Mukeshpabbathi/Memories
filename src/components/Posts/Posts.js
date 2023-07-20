@@ -21,6 +21,6 @@ const Posts = ({ setCurrentId }) => {
       </Grid>
     )
   );
-}; //End
+};
 
 export default Posts;
